@@ -1,0 +1,22 @@
+<php>
+  session_start();
+</php>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Quantum Cutiez </title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="qqt.css">
+  </head>
+  <body>
+    <div class="header">
+      
+    </div>
+    <div class="nav">
+      
+    </div>
+    <div class="content">
+
+    </div>
+  </body>
+</html>
