@@ -15,7 +15,7 @@
     <div class="nav">
       
     </div>
-    <div class="content">
+    <div class="contents">
 
     </div>
   </body>
