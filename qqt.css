@@ -1,9 +1,11 @@
 .header {
-background-color: red;
+  background-color: red;
+  height: 20vh;
+  width: 100vw;
 }
 .nav {
-background-color: blue;
+  background-color: blue;
 }
 .contents {
-background-color: green;
+  background-color: green;
 }
