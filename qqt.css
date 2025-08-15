@@ -1,13 +1,13 @@
 .header {
   background-color: red;
   height: 20vh;
-  width: 90vw;
+  width: 95vw;
   position: relative;
 }
 .nav {
   background-color: blue;
   height: 60vh;
-  width: 20vw:
+  width: 10vw:
   top: 20vh;
   postion: relative;
 }
