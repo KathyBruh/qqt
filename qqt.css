@@ -2,9 +2,14 @@
   background-color: red;
   height: 20vh;
   width: 100vw;
+  position: relative;
 }
 .nav {
   background-color: blue;
+  height: 60vh;
+  width: 40vw:
+  top: 20vh;
+  postion: relative;
 }
 .contents {
   background-color: green;
